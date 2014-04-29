@@ -1,0 +1,16 @@
+/*@font-face {
+  font-family: 'Biko_Regular';
+  src: url('Biko_Regular.otf')format('opentype');
+  src: local('☺'),
+         url('Biko_Regular.otf')format('opentype');
+}*/
+
+html {
+    padding: 10px;
+    font-family: Biko_Regular;
+    background-color: #808ad0;
+}
+
+.login-buttons-dropdown-align-right {
+    float: right;
+}
