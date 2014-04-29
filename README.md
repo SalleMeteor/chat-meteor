@@ -7,9 +7,9 @@ Els usuaris entren a la nostra app i el poden veure el títol de la nostra aplic
 
 PACKAGES
 
-•	Meteorite
-•	Password
-•	Github
+- Meteorite
+- Password
+- Github
 
 
 Xavier Marrugat - tm19556
