@@ -1,0 +1,16 @@
+@font-face {
+        font-family: 'Open';
+        src: url('./fonts/OpenSans-Regular.ttf');
+        /*src: local('HelveticaNeue'), url('./fonts/Biko_Regular.otf') 
+format('truetype');*/
+}
+
+html {
+    padding: 10px;
+    font-family: 'Open';
+    background-color: #808ad0;
+}
+
+.login-buttons-dropdown-align-right {
+    float: right;
+}

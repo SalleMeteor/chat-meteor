@@ -3,15 +3,14 @@
 </head>
 
 <body>
+  {{> loginButtons align="right"}}<br>
+  <h1>ChatMeteor</h1>
   {{#if currentUser}}
     <h1>Logged in</h1>
-     {{> input}}
-     {{> messages}}
-  {{else}}
-     <h1>ChatMeteor</h1>
-     {{> welcome }}
   {{/if}}
-  {{> loginButtons align="right"}}<br>
+  {{> welcome }}
+  {{> messages}}
+  {{> input}}
 </body>
 
 <template name="welcome">
@@ -30,6 +29,4 @@
   <p>Message: <input type="text" id="message"></p>
 </template>
 
-<template name="header">
-  {{loginButtons}}
-</template>
+
