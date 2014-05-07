@@ -20,5 +20,5 @@ chatmeteor.meteor.com
 
 
 
-Xavier Marrugat - tm19556
+Xavier Marrugat - tm19556 -----
 Sergi Orallo - st19287
